@@ -1,8 +1,10 @@
 Auf dieser Seite findet ihr eine reihe von Tutorials und Ressourcen die unser Team für euch bereit stellt.
 
-**Hier gehts zu den [Beiträgen](topics)**.
+**Hier gehts zu den [Tutorials](topics)**.
 
-## Über uns
+**Hier gehts zu der Panthor Life API [Dokumentation](docs/api)**.
+
+## Über unss
 
 Wir sind [Panthor Life](https://www.panthor.de) und wir bieten euch seit 2014 modded Roleplay mit unserem ganz eigenen touch.
 

@@ -1,4 +1,4 @@
-# ReallifeRPG APIv1
+# PanthorDE APIv1
 
 ## Categories
 
@@ -115,7 +115,7 @@ Note: These endpoints are not officially supported and my change without notice.
 | `set-cookie` | `laravel_session={LARAVEL_SESSION_KEY}` |
 
 ```
-POST info.realliferpg.de/banking/{IBAN}/data
+POST info.panthor.de/banking/{IBAN}/data
 Response 200 (application/json)
 ```
 
@@ -139,7 +139,7 @@ Response 200 (application/json)
 | `info`   | `{INFO}`           |
 
 ```
-POST info.realliferpg.de/banking/{IBAN}
+POST info.panthor.de/banking/{IBAN}
 Response 200 (application/html)
 ```
 

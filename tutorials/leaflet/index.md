@@ -90,7 +90,7 @@ Fertig!
 
 ```javascript
 	var redMarker = L.icon({
-        iconUrl: 'https://husky.realliferpg.de/icons/red_marker.png',
+        iconUrl: 'https://info.panthor.de/icons/red_marker.png',
 
         iconSize: [48, 48],
         iconAnchor: [24, 48],
@@ -116,7 +116,7 @@ Für mehr Konfigurationsmöglichkeiten etc befragt die [leaflet-docs](http://lea
 
 ###### Downloads
 
-[EmfToPng.exe](https://github.com/A3ReallifeRPG/a3realliferpg.github.io/releases/download/EmfToPng.exe/EmfToPng.exe)
+[EmfToPng.exe](https://github.com/PanthorDE/panthorde.github.io/releases/tag/EmfToPng.exe)
 
 ###### Quellen
 
