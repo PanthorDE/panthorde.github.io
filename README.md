@@ -4,11 +4,11 @@ Auf dieser Seite findet ihr eine reihe von Tutorials und Ressourcen die unser Te
 
 ## Über uns
 
-Wir sind [RealLifeRPG](https://www.realliferpg.de) und wir bieten euch seit 2014 modded Roleplay mit unserem ganz eigenen touch.
+Wir sind [Panthor Life](https://www.panthor.de) und wir bieten euch seit 2014 modded Roleplay mit unserem ganz eigenen touch.
 
 Unser DEV Team besteht aus vielen erfahrenen Scriptern, Moddern und was man sonst noch so hat.
 
-Bei Fragen zu dieser Seite wendet euch bitte an `contact@realliferpg.de`, bitte beachtet das wir aus Zeitgründen keine Inhaltlichen Fragen beantworten oder sonstwie Support geben können.
+Bei Fragen zu dieser Seite wendet euch bitte an `contact@panthor.de`, bitte beachtet das wir aus Zeitgründen keine Inhaltlichen Fragen beantworten oder sonstwie Support geben können.
 
 ## F.A.Q
 
@@ -24,7 +24,7 @@ Wir wollen der Arma Community etwas zurück geben und etwas von unserem über di
 
 Ihr habt einen Fehler gefunden ?
 
-Meldet ihn einfach [hier](https://github.com/A3ReallifeRPG/A3ReallifeRPG.github.io/issues) oder öffnet einen [Pull-Request](https://github.com/A3ReallifeRPG/A3ReallifeRPG.github.io/pulls) um den Fehler zu beheben.
+Meldet ihn einfach [hier](https://github.com/PanthorDE/panthorde.github.io/issues) oder öffnet einen [Pull-Request](https://github.com/PanthorDE/panthorde.github.io/pulls) um den Fehler zu beheben.
 
 ### Warum kann ich hier nicht einfach fertige Sachen kopieren ?
 
@@ -32,18 +32,18 @@ Wir wollen dich mit unseren Tutorials und Code-Veröffentlichungen dazu anregen 
 
 ### Kann ich die Sachen hier einfach benutzen ?
 
-Alles auf dieser Seite steht unter [GNU GPLv3](https://github.com/A3ReallifeRPG/a3realliferpg.github.io/blob/master/LICENSE)
+Alles auf dieser Seite steht unter [GNU GPLv3](https://github.com/PanthorDE/panthorde.github.io/blob/main/LICENSE)
 
 ### Kann ich mitmachen ?
 
 Du hast eine gute Anleitung die du gerne allen zur verfügung stellen möchtest ?
 
-Dann eröffne einen Pull-Request auf [dieses Repository](https://github.com/A3ReallifeRPG/A3ReallifeRPG.github.io).
+Dann eröffne einen Pull-Request auf [dieses Repository](https://github.com/PanthorDE/panthorde.github.io).
 
 Bitte ganz oben folgenden Text mit einfügen:
 
 ```markdown
-> **ACHTUNG** Dies ist kein offizieller Beitrag von RealLifeRPG
+> **ACHTUNG** Dies ist kein offizieller Beitrag von PanthorDE
 > Dieser Beitrag wurde von <dein Name> erstellt.
 ```
 
